@@ -112,7 +112,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.29</version>
+            <version>8.0.31</version>
         </dependency>
         <!-- mybatis -->
         <dependency>
@@ -268,7 +268,7 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-core</artifactId>
-            <version>1.12.304</version>
+            <version>1.12.365</version>
         </dependency>
         <dependency>
             <groupId>com.amazonaws</groupId>
@@ -278,7 +278,7 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>jmespath-java</artifactId>
-            <version>1.12.187</version>
+            <version>1.12.356</version>
         </dependency>
         <!-- AWS SDK end -->
         <dependency>
